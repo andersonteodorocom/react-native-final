@@ -2,4 +2,7 @@
 - Marivaldo
 - Murilo
 - Jonathan
-- Anderson 
+- Anderson
+
+- ## Trabalho Prof. Uedson Reis ##
+- Implementar Roles à partir do projeto base React Native Mobile.
